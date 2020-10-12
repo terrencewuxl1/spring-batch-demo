@@ -3,7 +3,6 @@ package com.batch.demo.mapper;
 import com.batch.demo.entity.Customer;
 import org.springframework.jdbc.core.RowMapper;
 
-import javax.swing.tree.TreePath;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
